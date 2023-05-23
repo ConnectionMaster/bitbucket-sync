@@ -6,7 +6,7 @@ setup(
     py_modules=['bbsync'],
     install_requires=[
         'click==3.3',
-        'requests==2.5.0',
+        'requests==2.31.0',
     ],
     entry_points='''
         [console_scripts]
